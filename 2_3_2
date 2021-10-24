@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-10-24T09:52:49.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.5.2" etag="kc_jUqNid2IFFYtIzlOt" type="github"><diagram id="k0m3a7UzmCHv2UvUr-pU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-24T10:16:04.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="B0drBvyu3ctSCYBABeog" version="15.5.2" type="github">
+  <diagram id="k0m3a7UzmCHv2UvUr-pU" name="Page-1">
+    <mxGraphModel dx="1022" dy="436" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jMnLKpVZdK4zXDK4Yp6v-1" target="jMnLKpVZdK4zXDK4Yp6v-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-1" value="病人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="99" y="172.25" width="71" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-6" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jMnLKpVZdK4zXDK4Yp6v-2" target="jMnLKpVZdK4zXDK4Yp6v-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-10" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jMnLKpVZdK4zXDK4Yp6v-2" target="jMnLKpVZdK4zXDK4Yp6v-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-2" value="1.1&lt;br&gt;接收数据并生成患者日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="244" y="163" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-4" value="生理信号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="177" y="166" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-15" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jMnLKpVZdK4zXDK4Yp6v-5" target="jMnLKpVZdK4zXDK4Yp6v-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-5" value="1.2&lt;br&gt;分析数据并生成报警信号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="244" y="282" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-7" value="生理信号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="304" y="238" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-17" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jMnLKpVZdK4zXDK4Yp6v-9" target="jMnLKpVZdK4zXDK4Yp6v-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-9" value="&amp;nbsp; 患者日志" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="255.5" y="86" width="97" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-11" value="患者日志" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="309" y="129" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-13" value="医护人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="247" y="381" width="114" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-19" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jMnLKpVZdK4zXDK4Yp6v-16" target="jMnLKpVZdK4zXDK4Yp6v-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-16" value="2&lt;br&gt;生成病情报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="81.5" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-18" value="医护人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="423" y="172.25" width="114" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-20" value="病情报告" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="478" y="133" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-21" value="患者日志" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="356" y="74" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jMnLKpVZdK4zXDK4Yp6v-21" target="jMnLKpVZdK4zXDK4Yp6v-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
