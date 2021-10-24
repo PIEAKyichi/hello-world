@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-24T10:16:04.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="B0drBvyu3ctSCYBABeog" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-24T10:18:16.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="KblYiswThgwpJ93gwY5n" version="15.5.2" type="github">
   <diagram id="k0m3a7UzmCHv2UvUr-pU" name="Page-1">
     <mxGraphModel dx="1022" dy="436" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,9 +22,6 @@
         <mxCell id="jMnLKpVZdK4zXDK4Yp6v-4" value="生理信号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="177" y="166" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-15" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jMnLKpVZdK4zXDK4Yp6v-5" target="jMnLKpVZdK4zXDK4Yp6v-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="jMnLKpVZdK4zXDK4Yp6v-5" value="1.2&lt;br&gt;分析数据并生成报警信号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="244" y="282" width="120" height="60" as="geometry" />
         </mxCell>
@@ -39,9 +36,6 @@
         </mxCell>
         <mxCell id="jMnLKpVZdK4zXDK4Yp6v-11" value="患者日志" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="309" y="129" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jMnLKpVZdK4zXDK4Yp6v-13" value="医护人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="247" y="381" width="114" height="39" as="geometry" />
         </mxCell>
         <mxCell id="jMnLKpVZdK4zXDK4Yp6v-19" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jMnLKpVZdK4zXDK4Yp6v-16" target="jMnLKpVZdK4zXDK4Yp6v-18">
           <mxGeometry relative="1" as="geometry" />
