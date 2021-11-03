@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-24T07:36:45.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="cr2m-ZKWm9mFfPv-ItVz" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T12:30:28.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="fJINFOacqNzIT1csatjt" version="15.5.9" type="github">
   <diagram id="wdrptpTexhbbz7bgi9wr" name="Page-1">
-    <mxGraphModel dx="1022" dy="436" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="695" dy="544" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,29 +16,31 @@
         <mxCell id="lGTRv1oV0zcjMJQc9zW4-3" value="提交旅客信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="197" y="95" width="104" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="lGTRv1oV0zcjMJQc9zW4-15" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lGTRv1oV0zcjMJQc9zW4-4" target="lGTRv1oV0zcjMJQc9zW4-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="lGTRv1oV0zcjMJQc9zW4-15" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lGTRv1oV0zcjMJQc9zW4-4" target="rODbVlpMU-h6_B07cqhU-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="284.86470588235295" y="281" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lGTRv1oV0zcjMJQc9zW4-4" value="1.1&lt;br&gt;旅行社输入&lt;br&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%8F%90%E4%BA%A4%E6%97%85%E5%AE%A2%E4%BF%A1%E6%81%AF%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22217%22%20y%3D%2271%22%20width%3D%22104%22%20height%3D%2253%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;旅客信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="223" y="190" width="104" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="lGTRv1oV0zcjMJQc9zW4-17" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lGTRv1oV0zcjMJQc9zW4-5" target="lGTRv1oV0zcjMJQc9zW4-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="lGTRv1oV0zcjMJQc9zW4-17" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lGTRv1oV0zcjMJQc9zW4-5" target="rODbVlpMU-h6_B07cqhU-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435.02631578947376" y="308" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lGTRv1oV0zcjMJQc9zW4-5" value="1.2&lt;br&gt;安排航班" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="325" y="355" width="104" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="lGTRv1oV0zcjMJQc9zW4-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lGTRv1oV0zcjMJQc9zW4-7" target="lGTRv1oV0zcjMJQc9zW4-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="lGTRv1oV0zcjMJQc9zW4-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="rODbVlpMU-h6_B07cqhU-3" target="lGTRv1oV0zcjMJQc9zW4-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310.80625" y="322" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="lGTRv1oV0zcjMJQc9zW4-7" value="旅客订票信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="233" y="281" width="110" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="lGTRv1oV0zcjMJQc9zW4-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lGTRv1oV0zcjMJQc9zW4-8" target="lGTRv1oV0zcjMJQc9zW4-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lGTRv1oV0zcjMJQc9zW4-8" value="航班机票信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="398" y="265" width="108" height="43" as="geometry" />
+        <mxCell id="lGTRv1oV0zcjMJQc9zW4-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="rODbVlpMU-h6_B07cqhU-7" target="lGTRv1oV0zcjMJQc9zW4-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="453.7373737373737" y="265" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lGTRv1oV0zcjMJQc9zW4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lGTRv1oV0zcjMJQc9zW4-10" target="lGTRv1oV0zcjMJQc9zW4-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -59,16 +61,28 @@
           <mxGeometry x="219" y="249" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGTRv1oV0zcjMJQc9zW4-27" value="订票信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="272" y="329" width="60" height="30" as="geometry" />
+          <mxGeometry x="254" y="327" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGTRv1oV0zcjMJQc9zW4-28" value="航班机票信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="418" y="322" width="89" height="30" as="geometry" />
+          <mxGeometry x="433" y="322" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGTRv1oV0zcjMJQc9zW4-29" value="航班机票信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="451" y="233" width="89" height="30" as="geometry" />
+          <mxGeometry x="456" y="232" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGTRv1oV0zcjMJQc9zW4-30" value="取票通知和账单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="461" y="129" width="97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rODbVlpMU-h6_B07cqhU-1" value="D1" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="223" y="289" width="114" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="rODbVlpMU-h6_B07cqhU-3" value="订票信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="254" y="286" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rODbVlpMU-h6_B07cqhU-5" value="D2" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="386" y="270" width="117" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rODbVlpMU-h6_B07cqhU-7" value="航班机票信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="270" width="89" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
