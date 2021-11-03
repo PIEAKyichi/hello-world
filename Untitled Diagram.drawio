@@ -1,20 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T12:30:28.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="fJINFOacqNzIT1csatjt" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T12:57:35.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="6qkuisvIhGfAN0xiQUd-" version="15.5.9" type="github">
   <diagram id="wdrptpTexhbbz7bgi9wr" name="Page-1">
-    <mxGraphModel dx="695" dy="544" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1027" dy="393" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lGTRv1oV0zcjMJQc9zW4-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lGTRv1oV0zcjMJQc9zW4-1" target="lGTRv1oV0zcjMJQc9zW4-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="lGTRv1oV0zcjMJQc9zW4-1" value="旅客" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="214.5" y="22" width="69" height="41" as="geometry" />
+          <mxGeometry x="214.5" y="95" width="69" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="lGTRv1oV0zcjMJQc9zW4-23" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lGTRv1oV0zcjMJQc9zW4-3" target="lGTRv1oV0zcjMJQc9zW4-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lGTRv1oV0zcjMJQc9zW4-3" value="提交旅客信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="197" y="95" width="104" height="53" as="geometry" />
+        <mxCell id="lGTRv1oV0zcjMJQc9zW4-23" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="lGTRv1oV0zcjMJQc9zW4-1" target="lGTRv1oV0zcjMJQc9zW4-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="256.25263157894733" y="147.9999999999999" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lGTRv1oV0zcjMJQc9zW4-15" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lGTRv1oV0zcjMJQc9zW4-4" target="rODbVlpMU-h6_B07cqhU-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -45,17 +41,14 @@
         <mxCell id="lGTRv1oV0zcjMJQc9zW4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lGTRv1oV0zcjMJQc9zW4-10" target="lGTRv1oV0zcjMJQc9zW4-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lGTRv1oV0zcjMJQc9zW4-10" value="1.3&lt;br&gt;产生取票通知&lt;br&gt;和账单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lGTRv1oV0zcjMJQc9zW4-10" value="2&lt;br&gt;产生取票通知&lt;br&gt;和账单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="408" y="161" width="104" height="53" as="geometry" />
         </mxCell>
         <mxCell id="lGTRv1oV0zcjMJQc9zW4-11" value="旅客" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="413" y="84" width="94" height="38" as="geometry" />
+          <mxGeometry x="418" y="84" width="86" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="lGTRv1oV0zcjMJQc9zW4-24" value="旅客信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="194" y="63" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="lGTRv1oV0zcjMJQc9zW4-25" value="订票信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="205" y="154" width="60" height="30" as="geometry" />
+        <mxCell id="lGTRv1oV0zcjMJQc9zW4-25" value="旅客信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="194" y="148" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGTRv1oV0zcjMJQc9zW4-26" value="订票信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="219" y="249" width="60" height="30" as="geometry" />
@@ -72,17 +65,23 @@
         <mxCell id="lGTRv1oV0zcjMJQc9zW4-30" value="取票通知和账单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="461" y="129" width="97" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rODbVlpMU-h6_B07cqhU-1" value="D1" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="rODbVlpMU-h6_B07cqhU-1" value="" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="223" y="289" width="114" height="24" as="geometry" />
         </mxCell>
         <mxCell id="rODbVlpMU-h6_B07cqhU-3" value="订票信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="254" y="286" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rODbVlpMU-h6_B07cqhU-5" value="D2" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="rODbVlpMU-h6_B07cqhU-5" value="" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="386" y="270" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rODbVlpMU-h6_B07cqhU-7" value="航班机票信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="270" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rODbVlpMU-h6_B07cqhU-8" value="D1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="223" y="294.5" width="33" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="rODbVlpMU-h6_B07cqhU-9" value="D2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="385" y="278.5" width="33" height="13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
