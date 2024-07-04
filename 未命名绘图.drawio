@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T01:13:00.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="NvsZudwOwNlb9Zl2qmsV" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T01:57:51.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="z4wqd7JOY5EXXUxDCZIb" version="24.6.4" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="1050" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
+    <mxGraphModel dx="955" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nJHyJpiOqpMIGT2mlFp9-104" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="400" y="730" width="470" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="1mdNSNmWwVbFpzS0-b86-3" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;dashed=1;strokeWidth=1.5;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="628.92" y="1003" as="sourcePoint" />
@@ -41,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nJHyJpiOqpMIGT2mlFp9-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="262" y="380" width="20" height="220" as="geometry" />
+          <mxGeometry x="262" y="380" width="20" height="346" as="geometry" />
         </mxCell>
         <mxCell id="nJHyJpiOqpMIGT2mlFp9-33" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;dashed=1;strokeWidth=1.5;" parent="1" source="nJHyJpiOqpMIGT2mlFp9-79" target="nJHyJpiOqpMIGT2mlFp9-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -55,7 +58,7 @@
         <mxCell id="nJHyJpiOqpMIGT2mlFp9-37" value="填写用户名密码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=宋体;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="282" y="386" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nJHyJpiOqpMIGT2mlFp9-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.359;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0.993;exitY=0.162;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1.5;" parent="1" source="nJHyJpiOqpMIGT2mlFp9-31" target="nJHyJpiOqpMIGT2mlFp9-32" edge="1">
+        <mxCell id="nJHyJpiOqpMIGT2mlFp9-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.359;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=1.014;exitY=0.102;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1.5;" parent="1" source="nJHyJpiOqpMIGT2mlFp9-31" target="nJHyJpiOqpMIGT2mlFp9-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="415" as="sourcePoint" />
           </mxGeometry>
@@ -90,7 +93,7 @@
         <mxCell id="nJHyJpiOqpMIGT2mlFp9-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="989" y="466" width="20" height="144" as="geometry" />
         </mxCell>
-        <mxCell id="nJHyJpiOqpMIGT2mlFp9-57" value="判断&lt;font face=&quot;Times New Roman&quot;&gt;IAMi&lt;/font&gt;通信正常，&lt;div&gt;传输登录请求&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=宋体;strokeWidth=1.5;" parent="1" vertex="1">
+        <mxCell id="nJHyJpiOqpMIGT2mlFp9-57" value="判断&lt;font face=&quot;Times New Roman&quot;&gt;IAMi&lt;/font&gt;通信正常，&lt;div&gt;传输登录消息&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=宋体;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="641.3199999999999" y="411" width="166" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nJHyJpiOqpMIGT2mlFp9-59" value="发起登录信息&lt;div&gt;验证请求&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=宋体;strokeWidth=1.5;" parent="1" vertex="1">
@@ -108,20 +111,23 @@
         <mxCell id="nJHyJpiOqpMIGT2mlFp9-62" value="校验用户&lt;div&gt;信息&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=宋体;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="1020" y="506" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nJHyJpiOqpMIGT2mlFp9-63" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.039;entryY=0.817;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;strokeWidth=1.5;" parent="1" source="nJHyJpiOqpMIGT2mlFp9-54" target="nJHyJpiOqpMIGT2mlFp9-52" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="nJHyJpiOqpMIGT2mlFp9-63" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.039;entryY=0.817;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;strokeWidth=1.5;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="989" y="569" as="sourcePoint" />
+            <mxPoint x="828.78" y="570.2300000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nJHyJpiOqpMIGT2mlFp9-64" value="返回验证结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=宋体;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="858" y="546" width="120" height="30" as="geometry" />
+          <mxGeometry x="856" y="541" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nJHyJpiOqpMIGT2mlFp9-68" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=-0.002;exitY=0.854;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.994;entryY=0.305;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1.5;" parent="1" source="nJHyJpiOqpMIGT2mlFp9-52" edge="1">
+        <mxCell id="nJHyJpiOqpMIGT2mlFp9-68" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=-0.002;exitY=0.854;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.994;entryY=0.305;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1.5;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="850" y="650" as="sourcePoint" />
-            <mxPoint x="639.2" y="581.6200000000001" as="targetPoint" />
+            <mxPoint x="807.96" y="579.26" as="sourcePoint" />
+            <mxPoint x="639.2" y="578.6200000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nJHyJpiOqpMIGT2mlFp9-69" value="传输回执消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=宋体;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="675" y="580" width="120" height="30" as="geometry" />
+          <mxGeometry x="664.32" y="553" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nJHyJpiOqpMIGT2mlFp9-75" value="传输回执" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=宋体;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="502" y="516" width="90" height="30" as="geometry" />
@@ -145,6 +151,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="619.3199999999999" y="577" as="sourcePoint" />
             <mxPoint x="490" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="619" y="586" />
+              <mxPoint x="556" y="586" />
+              <mxPoint x="556" y="545" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nJHyJpiOqpMIGT2mlFp9-84" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=1.5;" parent="1" vertex="1">
@@ -156,8 +167,8 @@
             <mxPoint x="627.8" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nJHyJpiOqpMIGT2mlFp9-51" value="确定为远程验证&lt;div&gt;发送登录请求&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=宋体;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="457.18" y="376" width="140" height="50" as="geometry" />
+        <mxCell id="nJHyJpiOqpMIGT2mlFp9-51" value="确定为远程验证&lt;div&gt;发送登录消息&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=宋体;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="462.18" y="376" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nJHyJpiOqpMIGT2mlFp9-6" value="通信服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=宋体;fontStyle=1;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="586.64" y="332" width="96.36" height="30" as="geometry" />
@@ -197,9 +208,6 @@
               <mxPoint x="487.15" y="691.26" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="nJHyJpiOqpMIGT2mlFp9-104" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="400" y="730" width="470" height="230" as="geometry" />
         </mxCell>
         <mxCell id="nJHyJpiOqpMIGT2mlFp9-106" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;direction=east;flipH=0;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="690" y="910" width="180" height="50" as="geometry" />
@@ -252,15 +260,15 @@
         </mxCell>
         <mxCell id="nJHyJpiOqpMIGT2mlFp9-139" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=-0.023;exitY=0.92;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;strokeWidth=1.5;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="437.53999999999996" y="897" as="sourcePoint" />
-            <mxPoint x="270" y="897" as="targetPoint" />
+            <mxPoint x="437.53999999999996" y="932" as="sourcePoint" />
+            <mxPoint x="270" y="932" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nJHyJpiOqpMIGT2mlFp9-140" value="验证成功&lt;div&gt;设置登陆状态&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=宋体;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="502" y="905" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nJHyJpiOqpMIGT2mlFp9-141" value="验证失败&lt;div&gt;返回重新输入&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=宋体;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="282.82" y="849" width="120" height="50" as="geometry" />
+          <mxGeometry x="282.82" y="884" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nJHyJpiOqpMIGT2mlFp9-18" value="统一身份认证系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=宋体;fontStyle=1;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="930" y="332" width="150" height="30" as="geometry" />
